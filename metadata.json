@@ -1,0 +1,5 @@
+{
+  "name": "Stokastik Futbol Motoru",
+  "description": "Gerçek zamanlı takım verileri için Google Arama Temellendirmesini Ağırlıklı Poisson Monte Carlo simülasyonu ile birleştiren gelişmiş bir tahmin motoru.",
+  "requestFramePermissions": []
+}
